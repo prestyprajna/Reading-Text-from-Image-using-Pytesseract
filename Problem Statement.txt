@@ -1,0 +1,3 @@
+There are some RC images in Zip file.
+Extract them. 
+Extract data from each Image based on Sample submission.csv format.
